@@ -1,0 +1,7 @@
+As an T2T Developer I do not use any of user data for anything.
+
+The Android advertising identifier is being used for advertising and user analytics.
+
+The advertising identifier not being connected to personally-identifiable information or associated with any persistent device identifier.
+
+If you reset your app I don't connect the new id to old id.
